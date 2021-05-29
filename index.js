@@ -26,4 +26,4 @@ FILL ME!
 	}
 });
 
-client.on(config.token)
+client.login(config.token)
